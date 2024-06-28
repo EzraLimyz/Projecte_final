@@ -1,0 +1,2 @@
+Inputs per afegir spin
+
